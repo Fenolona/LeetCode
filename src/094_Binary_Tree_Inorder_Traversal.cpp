@@ -6,7 +6,7 @@
  * @spaceComplexity O(n)
  * @strategy        left child -> root -> right child, recursive
  * @status          Accepted, defeated 12.90% cpp submissions.
- * @version         recursive
+ * @version         v1. recursive
  * @time            10:11, Oct 20 2015
  */
 
@@ -43,7 +43,7 @@ public:
  * @spaceComplexity O(n)
  * @strategy        left child -> root -> right child, stack to store
  * @status          Accepted, defeated 12.90% cpp submissions.
- * @version         iteration
+ * @version         v2. iteration
  * @time            18:36, Oct 20 2015
  */
  
