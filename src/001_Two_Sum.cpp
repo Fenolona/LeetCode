@@ -37,7 +37,7 @@ public:
  * @problem         Two Sum 
  * @url             https://leetcode.com/problems/two-sum/ 
  * @timeComlexity   O(nlog(n)) 
- * @spaceComplexity O(n) 
+ * @spaceComplexity O(1) 
  * @strategy        copy -> binary search -> find index -> swap index if not suit 
  * @status          Accepted, 12ms,  runtime beats 89.81% of cpp submissions 
  * @time            14:55, Oct 21 2015 
